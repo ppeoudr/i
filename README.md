@@ -11,4 +11,4 @@ go to the directory
 <br/>
 run below command
 <br/>
- ```git clone git@github.com:ppeou/i.git master && cd master && sh auto-download.sh```
+ ```git clone git@github.com:ppeoudr/i.git master && cd master && sh auto-download.sh```
